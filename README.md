@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-###This is Oripelaye Oluwafunmilola Elizabeth
+This is Oripelaye Oluwafunmilola Elizabeth
 
 
 Here are some ideas to get you started:
