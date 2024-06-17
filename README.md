@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 ## This is Oripelaye Oluwafunmilola Elizabeth
-## I am an upcoming Data Analyst
+## I am a Data Analyst Student
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
+- 🔭 I’m currently working on Data Analytics in Dahel Techies
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
