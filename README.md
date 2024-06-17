@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## This is Oripelaye Oluwafunmilola Elizabeth
-
+## I am an upcoming Data Analyst
 
 Here are some ideas to get you started:
 
